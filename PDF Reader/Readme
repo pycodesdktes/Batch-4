@@ -1,0 +1,21 @@
+PDF READER WITH PYTHON
+
+Description: -
+There are several APIs available to convert text to speech in Python. One of such APIs is the Google
+Text to Speech API commonly known as the gTTS API. gTTS is a very easy to use tool which converts
+the text entered, into audio which can be saved as a mp3 file.However, as of the latest update, it is
+not possible to change the voice of the generated audio.
+IT COMES WITH ALL THE MODULE DEFINED IN TKINTER.HOWEVER TO SAVE THE MAJOR TYPING
+EFFORTS WE IMPORT THE TKINTER LIBRARY WITH ACRONYM FURTHER THAT CAN BE USED TO
+CREATE A INSISTANCE OF WIDGETS.IT IS A GUI TOOLKIT
+IT IS A PURE –PYTHON LIBRARY.IT IS USED FOR PERFORMING MAJOR TASKS ON PDF FILES SUCH AS
+EXTRACTINGs THE DOCUMENTATION SPECIFIC INFORMATION MERING THE PDF FILES.SPECIFIC THE
+PAGES OF A PDF FILES.ADDING THE PAGES OF A PDF FILES.ENCYPTING AND DECYPTING THE PDF
+FILES etc.Pyttsx3 is a text –to-speech conversion library in python.Unlike alternative libraries it works
+offline and compatible
+
+Project is made by:
+ Sandesh Kamble(18UET020)
+ Naresh Sharma(18UET057)
+ Siddhant Gaikwad(18UET012)
+ Prasad Sabane(18UET053)
