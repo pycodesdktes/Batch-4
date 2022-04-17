@@ -1,0 +1,20 @@
+Project Name: Image to Sketch Converter using python
+
+Group members:
+Ankita Ashok Hulle (20UET302)
+Sanika Nitin Kadam (20UET304)
+Prajkta Neminath Patil (20UET307)
+Batch TY5
+
+In Python, an image is just a two-dimensional array of integers. So one can do a
+couple of matrix manipulations using various python modules in order to get
+some very interesting effects. In order to convert the normal image to a
+sketch, we will change its original values and assign its values similar to grey, in
+this way a sketch of the input image will be generated. 
+
+Working:
+First we install the libraries required for project. Import all required modules (Numpy, tkinter,
+OpenCV). Open the message box and add any Image as input. Then check the shape of
+image. Convert image in black and white format using cvt colour function . Convert in image
+detection format using colour BGR2HSV function . Convert in inverse form. Convert in
+gaussian form using gaussian blur. Convert in gray format. Display sketch
