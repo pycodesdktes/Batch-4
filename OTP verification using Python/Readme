@@ -1,0 +1,61 @@
+OTP Verification using Python
+
+Information:
+OTP Verification is the process of verifying a user by sending a unique password so that
+the user can be verified before completing a registration or payment process. Most of the time,
+we get an OTP when we make an online payment, or when we forget our password, or when
+creating an account on any online platform. Thus, the sole purpose of an OTP is to verify the
+identity of a user by sending a unique password.
+Description:
+One-time Passwords (OTP) is a password that is valid for only one login
+session in a computer or in a digital device. OTPs have various applications in
+providing services such as Internet Banking, online transactions, etc. They are made
+up of a combination of 4 or 6 numeric digits or a 6-digit alphanumeric character.
+Using python, we can create an OTP generation and verification GUI. This can be
+done by following a few steps.
+The following is the block diagram of the flow of the steps involved in creating an
+OTP verification GUI with Python.
+
+Let us now see each of these steps in detail with the corresponding required code.
+I] Enter mobile number input screen
+Details:
+In this step we will perform the following functions:
+Entered mobile
+no.
+Input Screen
+
+Generating,
+Storing and
+Sending otp
+
+OTP
+Validating
+Screen
+
+1. Creating the initial welcome screen which contains a text field asking users for the
+mobile no. where the OTP needs to be sent.
+2. In this step, the user enters their mobile no.
+3. Additionally, this screen also contains the CONTINUE button.
+4. When the user clicks on the CONTINUE button, the control moves to the second
+step of the application i.e., Generating, Storing, and Sending OTP.
+
+II] Generating, Storing, and Sending OTP
+Details:
+In this step we will implement the following functions:
+1. Fetching the mobile no. that the user entered in the previous screen.
+2. Generating an OTP.
+3. Storing this OTP in a notepad file.
+4. Sending the OTP to the mobile no. that the user entered.
+
+III] OTP validating screen
+Details:
+In this step we will implement the following steps:
+1. Creating the second screen which contains a text field asking the user to enter the
+OTP that they received in their entered mobile no.
+2. Adding a VALIDATE button. Once the user enters the OTP and clicks on this
+button, we can validate the user-provided OTP with the OTP stored in our notepad
+file(in step II).
+
+Project Members
+1) Priyanka Shivanand Jotawar
+2) Gayatri Arun Patil.
