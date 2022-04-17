@@ -1,0 +1,40 @@
+Chatbot: 
+Chat robot, a computer program that simulates human conversation, or chat through artificial 
+intelligence. 
+Typically, a chat bot will communicate with a real person. 
+In our project we include the Following libraries- 
+1)Tkinter 
+2)Chatterbot 
+3)Chatterbot.trainers 
+
+In our project we used these files to fulfill requirement of our project. 
+Here our Chatbot project using  python code is specifically made for giving the  information 
+about DKTE,s Textile and engineering institute .As this college is from one of the reputed 
+college in the district the students who are willing to join the college are able to get this 
+information easily by using this chatbot concept. 
+It helps people to give each and every information which is required by user. As we enter the 
+doubts or the questions in the chatbot screen it displays the related answers to them. It may be 
+easy for user to get information rather than personal calling or visiting as their. are too much 
+crowd of visitors for getting proper and clear information about the college  and the institute. 
+
+Benefits:  
+• Understandable information about the customer. 
+• Can be called a selling partner by making and sending the products information. 
+• Provides 24hrs services 
+• Satisfy the need of clients as the customer will not go on waiting for your call. They need 
+the action quickly or will turn to another brand. 
+
+Future scope : 
+• Chatbots are becoming popular and are currently most commonly used in messenger 
+applications on social media platforms 
+• . While the number of businesses that utilize chatbots has grown, many have yet to 
+realize the true potential and various benefits of implementing chatbots for businesses. 
+• Chatbots can bring technological advancements and vastly improve customer 
+engagement. 
+•  It can communicate with clients to create enhanced lead generation.  
+• The chatbot is a perfect tool to make suggestions on everything from products to services, 
+helping you to capture super-targeted leads. 
+
+Conclusion : 
+•  chatbot is important in business. 
+• how we can build a simple chatbot by using Python and Library Chatterbot.
